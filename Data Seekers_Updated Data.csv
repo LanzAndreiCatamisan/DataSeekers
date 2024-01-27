@@ -1,0 +1,66 @@
+Age,Sex,Address,Year Level,Q1,Q2,Setup,Q3,Q3_Inverted,Q4,Technology,Q5,Q6,Interaction,Q7,Q8,Q8_Inverted,Instructor,Q9,Q10,Outcome,Q11,Q12,Q13,Total,Average
+20,Male,"Alfonso, Cavite",BSCpE - 3rd Year,1,4,2.5,3,3,4,3.5,3,2,2.5,4,3,3,3.5,4,3,3.5,4,Ease of use of the e-learning platform,Heavy workload and fast pace of online classes,35,3.181818182
+20,Male,"Amadeo, Cavite",BSCpE - 3rd Year,5,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Flexibility of learning schedule,Heavy workload and fast pace of online classes,35,3.181818182
+20,Female,"General Emilio Aguinaldo, Cavite",BSCpE - 3rd Year,1,4,2.5,3,3,4,3.5,4,3,3.5,4,3,3,3.5,4,3,3.5,4,Ease of use of the e-learning platform,Heavy workload and fast pace of online classes,37,3.363636364
+21,Male,"Carmona, Cavite",BSCpE - 3rd Year,1,2,1.5,3,3,4,3.5,3,3,3,4,4,2,3,5,4,4.5,5,Flexibility of learning schedule,Lack of face-to-face interaction with instructors and classmates,36,3.272727273
+20,Male,"Carmona, Cavite",BSCpE - 3rd Year,1,3,2,3,3,2,2.5,3,4,3.5,2,3,3,2.5,4,4,4,3,Flexibility of learning schedule,"Technical issues (e.g., poor internet connection, software glitches)",32,2.909090909
+22,Male,"Carmona, Cavite",BSCpE - 3rd Year,1,3,2,3,3,4,3.5,3,3,3,4,3,3,3.5,3,4,3.5,4,Flexibility of learning schedule,Heavy workload and fast pace of online classes,35,3.181818182
+20,Male,"Cavite City, Cavite",BSCpE - 3rd Year,1,4,2.5,3,3,4,3.5,3,3,3,4,4,2,3,3,4,3.5,3,Responsiveness and support from instructors,Lack of hands-on or practical learning experiences,34,3.090909091
+20,Female,"Cavite City, Cavite",BSCpE - 3rd Year,3,3,3,3,3,4,3.5,4,2,3,3,3,3,3,4,4,4,4,Flexibility of learning schedule,Lack of face-to-face interaction with instructors and classmates,37,3.363636364
+19,Male,"Dasmarinas, Cavite",BSCpE - 3rd Year,5,3,4,3,3,4,3.5,4,4,4,2,4,2,2,3,4,3.5,4,Flexibility of learning schedule,Heavy workload and fast pace of online classes,38,3.454545455
+20,Male,"Dasmarinas, Cavite",BSCpE - 3rd Year,5,4,4.5,3,3,4,3.5,3,3,3,3,3,3,3,3,3,3,4,Responsiveness and support from instructors,Heavy workload and fast pace of online classes,38,3.454545455
+21,Male,"Dasmarinas, Cavite",BSCpE - 3rd Year,1,3,2,2,4,3,3.5,3,3,3,4,2,4,4,3,4,3.5,3,Flexibility of learning schedule,"Technical issues (e.g., poor internet connection, software glitches)",35,3.181818182
+20,Female,"Dasmarinas, Cavite",BSCpE - 3rd Year,5,4,4.5,1,5,4,4.5,4,3,3.5,1,2,4,2.5,2,2,2,2,Ease of use of the e-learning platform,Lack of face-to-face interaction with instructors and classmates,36,3.272727273
+20,Female,"Dasmarinas, Cavite",BSCpE - 3rd Year,1,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,Flexibility of learning schedule,Lack of face-to-face interaction with instructors and classmates,31,2.818181818
+20,Male,"Dasmarinas, Cavite",BSCpE - 3rd Year,1,2,1.5,3,3,3,3,4,3,3.5,3,4,2,2.5,3,1,2,3,Ease of use of the e-learning platform,"Technical issues (e.g., poor internet connection, software glitches)",28,2.545454545
+21,Female,"General Emilio Aguinaldo, Cavite",BSCpE - 3rd Year,5,1,3,4,2,2,2,5,4,4.5,2,1,5,3.5,5,4,4.5,4,Responsiveness and support from instructors,Lack of face-to-face interaction with instructors and classmates,39,3.545454545
+20,Male,"General Trias, Cavite",BSCpE - 3rd Year Irregular,1,5,3,2,4,5,4.5,4,1,2.5,3,4,2,2.5,3,3,3,4,Flexibility of learning schedule,Heavy workload and fast pace of online classes,35,3.181818182
+21,Male,"General Trias, Cavite",BSCpE - 3rd Year,3,3,3,3,3,3,3,3,3,3,3,4,2,2.5,3,3,3,3,Flexibility of learning schedule,"Technical issues (e.g., poor internet connection, software glitches)",32,2.909090909
+20,Male,"General Trias, Cavite",BSCpE - 3rd Year,5,4,4.5,2,4,4,4,4,2,3,2,3,3,2.5,2,3,2.5,3,Flexibility of learning schedule,Lack of hands-on or practical learning experiences,36,3.272727273
+20,Male,"General Trias, Cavite",BSCpE - 3rd Year,3,4,3.5,3,3,3,3,4,2,3,4,3,3,3.5,4,3,3.5,3,Flexibility of learning schedule,Heavy workload and fast pace of online classes,36,3.272727273
+21,Male,"General Trias, Cavite",BSCpE - 3rd Year,5,4,4.5,3,3,3,3,3,3,3,4,3,3,3.5,3,4,3.5,3,Ease of use of the e-learning platform,"Technical issues (e.g., poor internet connection, software glitches)",38,3.454545455
+20,Male,"General Trias, Cavite",BSCpE - 3rd Year,1,4,2.5,4,2,4,3,3,2,2.5,2,3,3,2.5,4,3,3.5,3,Ease of use of the e-learning platform,"Technical issues (e.g., poor internet connection, software glitches)",31,2.818181818
+20,Male,"General Trias, Cavite",BSCpE - 3rd Year,5,4,4.5,2,4,4,4,4,3,3.5,4,3,3,3.5,4,4,4,4,Quality of course content,"Technical issues (e.g., poor internet connection, software glitches)",43,3.909090909
+20,Male,"General Trias, Cavite",BSCpE - 3rd Year,1,3,2,3,3,2,2.5,5,4,4.5,3,4,2,2.5,3,5,4,3,Flexibility of learning schedule,"Technical issues (e.g., poor internet connection, software glitches)",34,3.090909091
+20,Female,"General Trias, Cavite",BSCpE - 3rd Year,3,3,3,2,4,3,3.5,4,3,3.5,2,4,2,2,2,4,3,2,Ease of use of the e-learning platform,Heavy workload and fast pace of online classes,32,2.909090909
+20,Male,"General Trias, Cavite",BSCpE - 3rd Year Irregular,1,3,2,3,3,4,3.5,4,4,4,3,3,3,3,4,4,4,3,Ease of use of the e-learning platform,"Technical issues (e.g., poor internet connection, software glitches)",36,3.272727273
+19,Male,"General Trias, Cavite",BSCpE - 3rd Year,3,3,3,4,2,3,2.5,3,3,3,4,3,3,3.5,4,3,3.5,3,Flexibility of learning schedule,Heavy workload and fast pace of online classes,34,3.090909091
+20,Male,"General Trias, Cavite",BSCpE - 3rd Year,1,5,3,3,3,5,4,5,3,4,3,4,2,2.5,4,4,4,5,Flexibility of learning schedule,"Technical issues (e.g., poor internet connection, software glitches)",40,3.636363636
+20,Male,"General Mariano Alvarez, Cavite",BSCpE - 3rd Year,1,3,2,3,3,3,3,4,3,3.5,4,3,3,3.5,4,3,3.5,3,Responsiveness and support from instructors,Heavy workload and fast pace of online classes,34,3.090909091
+20,Male,"Imus, Cavite",BSCpE - 3rd Year,1,4,2.5,3,3,4,3.5,4,4,4,4,4,2,3,3,3,3,4,Ease of use of the e-learning platform,Heavy workload and fast pace of online classes,36,3.272727273
+20,Male,"Imus, Cavite",BSCpE - 3rd Year,5,4,4.5,3,3,4,3.5,3,3,3,5,3,3,4,3,4,3.5,4,Responsiveness and support from instructors,Heavy workload and fast pace of online classes,41,3.727272727
+20,Male,"Indang, Cavite",BSCpE - 3rd Year,5,3,4,3,3,4,3.5,3,3,3,2,4,2,2,2,3,2.5,2,Responsiveness and support from instructors,Lack of face-to-face interaction with instructors and classmates,32,2.909090909
+20,Male,"Indang, Cavite",BSCpE - 3rd Year,1,3,2,3,3,5,4,4,2,3,1,5,1,1,4,3,3.5,4,Flexibility of learning schedule,Lack of hands-on or practical learning experiences,31,2.818181818
+20,Male,"Indang, Cavite",BSCpE - 3rd Year,5,2,3.5,1,5,1,3,2,4,3,2,3,3,2.5,4,4,4,3,Flexibility of learning schedule,Heavy workload and fast pace of online classes,35,3.181818182
+20,Female,"Indang, Cavite",BSCpE - 3rd Year,1,2,1.5,4,2,4,3,5,2,3.5,3,3,3,3,3,3,3,3,Flexibility of learning schedule,"Technical issues (e.g., poor internet connection, software glitches)",31,2.818181818
+20,Female,"Indang, Cavite",BSCpE - 3rd Year,3,4,3.5,3,3,4,3.5,3,3,3,3,4,2,2.5,3,4,3.5,4,Flexibility of learning schedule,Heavy workload and fast pace of online classes,36,3.272727273
+20,Male,"Indang, Cavite",BSCpE - 3rd Year,1,4,2.5,3,3,3,3,3,3,3,4,3,3,3.5,3,4,3.5,4,Flexibility of learning schedule,Lack of hands-on or practical learning experiences,35,3.181818182
+21,Male,"Indang, Cavite",BSCpE - 3rd Year,3,4,3.5,3,3,3,3,3,3,3,4,3,3,3.5,4,4,4,4,Flexibility of learning schedule,Heavy workload and fast pace of online classes,38,3.454545455
+20,Male,"Indang, Cavite",BSCpE - 3rd Year,3,4,3.5,3,3,3,3,4,2,3,3,4,2,2.5,3,4,3.5,3,Quality of course content,"Technical issues (e.g., poor internet connection, software glitches)",34,3.090909091
+20,Male,"Indang, Cavite",BSCpE - 3rd Year,3,3,3,2,4,5,4.5,4,4,4,2,4,2,2,2,3,2.5,2,Flexibility of learning schedule,Lack of hands-on or practical learning experiences,34,3.090909091
+21,Male,"Indang, Cavite",BSCpE - 3rd Year,5,1,3,1,5,1,3,2,3,2.5,3,2,4,3.5,2,5,3.5,5,Ease of use of the e-learning platform,"Technical issues (e.g., poor internet connection, software glitches)",36,3.272727273
+20,Male,"Kawit, Cavite",BSCpE - 3rd Year,5,2,3.5,4,2,4,3,5,3,4,1,5,1,1,2,2,2,2,Ease of use of the e-learning platform,"Technical issues (e.g., poor internet connection, software glitches)",29,2.636363636
+20,Male,"Naic, Cavite",BSCpE - 3rd Year,3,2,2.5,5,1,3,2,5,3,4,1,3,3,2,3,2,2.5,4,Ease of use of the e-learning platform,"Technical issues (e.g., poor internet connection, software glitches)",30,2.727272727
+20,Female,"Naic, Cavite",BSCpE - 3rd Year,5,4,4.5,3,3,4,3.5,3,3,3,3,3,3,3,3,3,3,4,Ease of use of the e-learning platform,Lack of hands-on or practical learning experiences,38,3.454545455
+20,Male,"Naic, Cavite",BSCpE - 3rd Year,3,4,3.5,3,3,3,3,3,4,3.5,3,3,3,3,3,4,3.5,3,Flexibility of learning schedule,"Technical issues (e.g., poor internet connection, software glitches)",36,3.272727273
+21,Female,"Naic, Cavite",BSCpE - 3rd Year,5,3,4,3,3,3,3,5,4,4.5,3,3,3,3,2,3,2.5,3,Ease of use of the e-learning platform,2y in understanding course material,37,3.363636364
+21,Male,"Naic, Cavite",BSCpE - 3rd Year,1,3,2,3,3,5,4,5,3,4,3,4,2,2.5,3,4,3.5,4,Flexibility of learning schedule,Heavy workload and fast pace of online classes,36,3.272727273
+20,Male,"Naic, Cavite",BSCpE - 3rd Year,5,3,4,3,3,4,3.5,3,3,3,4,4,2,3,4,4,4,4,Ease of use of the e-learning platform,Heavy workload and fast pace of online classes,39,3.545454545
+20,Female,"Naic, Cavite",BSCpE - 3rd Year,5,3,4,4,2,4,3,3,2,2.5,2,5,1,1.5,2,2,2,3,Flexibility of learning schedule,Lack of face-to-face interaction with instructors and classmates,29,2.636363636
+19,Female,"Nasugbu, Batangas",BSCpE - 3rd Year,5,4,4.5,3,3,4,3.5,3,4,3.5,2,3,3,2.5,3,3,3,3,Responsiveness and support from instructors,"Technical issues (e.g., poor internet connection, software glitches)",37,3.363636364
+20,Male,"Noveleta, Cavite",BSCpE - 3rd Year,5,4,4.5,3,3,5,4,1,2,1.5,3,4,2,2.5,4,2,3,4,Ease of use of the e-learning platform,Lack of hands-on or practical learning experiences,35,3.181818182
+21,Male,"Rosario, Cavite",BSCpE - 3rd Year,5,1,3,3,3,4,3.5,4,2,3,2,4,2,2,2,2,2,4,Ease of use of the e-learning platform,Lack of face-to-face interaction with instructors and classmates,31,2.818181818
+20,Female,"San Pedro, Laguna",BSCpE - 3rd Year,3,3,3,4,2,3,2.5,3,2,2.5,3,3,3,3,4,3,3.5,3,Opportunities for interaction and collaboration with classmates,"Technical issues (e.g., poor internet connection, software glitches)",32,2.909090909
+20,Female,"Silang, Cavite",BSCpE - 3rd Year,1,4,2.5,3,3,4,3.5,4,3,3.5,3,4,2,2.5,3,4,3.5,4,Flexibility of learning schedule,2y in understanding course material,35,3.181818182
+21,Male,"Silang, Cavite",BSCpE - 3rd Year,5,3,4,3,3,3,3,3,2,2.5,3,4,2,2.5,3,3,3,3,Flexibility of learning schedule,Heavy workload and fast pace of online classes,33,3
+20,Female,"Tagaytay, Cavite",BSCpE - 3rd Year,3,3,3,3,3,4,3.5,3,4,3.5,4,4,2,3,3,4,3.5,4,Quality of course content,Lack of face-to-face interaction with instructors and classmates,37,3.363636364
+20,Female,"Tagaytay, Cavite",BSCpE - 3rd Year,5,4,4.5,3,3,4,3.5,3,3,3,3,4,2,2.5,3,4,3.5,3,Quality of course content,"Technical issues (e.g., poor internet connection, software glitches)",37,3.363636364
+21,Female,"Tagaytay, Cavite",BSCpE - 3rd Year,5,4,4.5,3,3,3,3,4,3,3.5,3,4,2,2.5,3,3,3,4,Opportunities for interaction and collaboration with classmates,2y in understanding course material,37,3.363636364
+20,Male,"Tanza, Cavite",BSCpE - 3rd Year,3,2,2.5,4,2,3,2.5,5,5,5,2,5,1,1.5,3,4,3.5,2,Flexibility of learning schedule,Heavy workload and fast pace of online classes,32,2.909090909
+20,Female,"Tanza, Cavite",BSCpE - 3rd Year,5,4,4.5,3,3,4,3.5,2,4,3,2,3,3,2.5,4,3,3.5,4,Quality of course content,"Technical issues (e.g., poor internet connection, software glitches)",38,3.454545455
+20,Female,"Tanza, Cavite",BSCpE - 3rd Year,1,3,2,4,2,4,3,3,3,3,2,3,3,2.5,3,4,3.5,4,Flexibility of learning schedule,Lack of hands-on or practical learning experiences,32,2.909090909
+22,Male,"Tanza, Cavite",BSCpE - 3rd Year Irregular,1,3,2,2,4,5,4.5,2,1,1.5,2,4,2,2,3,4,3.5,2,Flexibility of learning schedule,Lack of hands-on or practical learning experiences,29,2.636363636
+20,Male,"Ternate, Cavite",BSCpE - 3rd Year,1,4,2.5,3,3,4,3.5,3,2,2.5,4,4,2,3,3,3,3,3,Ease of use of the e-learning platform,Lack of hands-on or practical learning experiences,32,2.909090909
+20,Male,"Trece Martires City, Cavite",BSCpE - 3rd Year,5,4,4.5,4,2,2,2,5,2,3.5,4,1,5,4.5,4,4,4,4,Flexibility of learning schedule,"Technical issues (e.g., poor internet connection, software glitches)",41,3.727272727
+21,Female,"Trece Martires City, Cavite",BSCpE - 3rd Year,5,3,4,3,3,3,3,5,2,3.5,3,4,2,2.5,4,4,4,3,Flexibility of learning schedule,Lack of hands-on or practical learning experiences,37,3.363636364
+21,Male,"Trece Martires City, Cavite",BSCpE - 3rd Year,3,3,3,3,3,3,3,4,3,3.5,4,3,3,3.5,4,3,3.5,4,Flexibility of learning schedule,Lack of hands-on or practical learning experiences,37,3.363636364
